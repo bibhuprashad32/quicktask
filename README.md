@@ -21,9 +21,9 @@ A clean, local-first task management app built with React. I built this to handl
 To get this running on your own machine, make sure you have Node.js installed, then follow these steps:
 
 1. Clone this repository or download the files.
-2. Open your terminal and navigate to the project folder: ``` cd quicktask ```
-3. Install the dependencies: ```npm install```
-4. Start the development server: ```npm start```
+2. Open your terminal and navigate to the project folder: `cd quicktask`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm start`
 
 The app will automatically open in your browser at http://localhost:3000.
 
